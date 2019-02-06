@@ -41,7 +41,7 @@
     "@babel/plugin-proposal-class-properties": "^7.3.0",
     "@babel/plugin-proposal-pipeline-operator": "^7.3.2",
     "babel-core": "7.0.0-beta.3",
-    "babel-eslint": "7.0.0",
+    "babel-eslint": "7.2.3",
     "babel-preset-env": "7.0.0-beta.3",
     "babel-preset-stage-1": "7.0.0-beta.3",
     "backpack-core": "^0.4.1",
